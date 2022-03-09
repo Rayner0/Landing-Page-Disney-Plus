@@ -375,7 +375,7 @@
 
 @media screen and (max-width: 292px){
 
-	.celularMenosDe300{
+	.botao, .assinar{
 		font-size: 150px;
 	}
 
